@@ -1,0 +1,33 @@
+🟢 Easy Level (1–10)
+Create a dictionary with keys name, age, and city and print it.
+Access the value of key name from a dictionary.
+Add a new key email to an existing dictionary.
+Update the value of an existing key in a dictionary.
+Remove a key age using del.
+Print all keys of a dictionary.
+Print all values of a dictionary.
+Check if a key exists in a dictionary.
+Get the length of a dictionary.
+Clear all elements from a dictionary.
+🟡 Medium Level (11–20)
+Iterate over a dictionary and print keys and values.
+Create a dictionary using dict() constructor.
+Merge two dictionaries into one.
+Count frequency of elements in a list using a dictionary.
+Create a dictionary from two lists (keys and values).
+Sort a dictionary by keys.
+Sort a dictionary by values.
+Find the maximum value in a dictionary.
+Find the key with the minimum value.
+Use get() method and explain its advantage over direct access.
+🔵 Advanced Level (21–30)
+Create a nested dictionary for storing student data (name, marks, subjects).
+Access elements from a nested dictionary.
+Convert two lists into a dictionary using dictionary comprehension.
+Create a dictionary with squares of numbers from 1 to 10 using comprehension.
+Filter dictionary elements where value > 50.
+Invert a dictionary (swap keys and values).
+Handle missing keys using defaultdict.
+Group words by their first letter using a dictionary.
+Find duplicate values in a dictionary.
+Implement a simple caching system using a dictionary.

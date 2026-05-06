@@ -1,0 +1,28 @@
+file extension
+======================
+.apk
+.exe => installer =>
+.txt
+.docx
+.xlsx
+.py
+
+win + d => go to desktop
+win + e => file explorer/ this pc
+alt + tab => switch between windows
+
+
+
+download installer for python
+=============================
+https://www.python.org/downloads
+
+
+win + r => cmd => enter
+type =>python --version
+
+download vs code
+==============================
+https://code.visualstudio.com/download
+
+ctrl + shift + s => save as

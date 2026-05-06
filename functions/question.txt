@@ -1,0 +1,54 @@
+🟢 Easy Level (1–10)
+Write a function to check whether a number is even or odd.
+Write a function to print numbers from 1 to 10 using a for loop.
+Write a function to check if a number is positive, negative, or zero using if-elif-else.
+Write a function that prints the multiplication table of a given number.
+Write a program to print all even numbers from 1 to 50 using for and if.
+Write a function to find the largest of two numbers using if-else.
+Write a function to check if a number is divisible by 5.
+Write a program to print numbers from 1 to 20 but skip multiples of 3 using continue.
+Write a function to calculate the sum of numbers from 1 to N using a for loop.
+Write a function that prints numbers from 1 to 10 but stops when it reaches 7 using break.
+🟡 Medium Level (11–20)
+Write a function to find the largest of three numbers using nested if.
+Write a function to check whether a number is a prime number.
+Write a function to count how many even and odd numbers are in a given range.
+Write a program to print all prime numbers between 1 and 50.
+Write a function to check whether a number is a palindrome.
+Write a function that takes marks as input and returns grade using if-elif-else.
+Write a program to print factorial of a number using a for loop.
+Write a function that prints numbers from 1 to 100 but:
+Skip multiples of 5 (continue)
+Stop if number > 80 (break)
+Write a function to check if a year is a leap year using nested if.
+Write a function that finds the sum of digits of a number.
+🔵 Upper-Medium Level (21–25)
+Write a function to print Fibonacci series up to N terms using a for loop.
+Write a function to count prime numbers in a given range.
+Write a program to print this pattern using loops and if:
+1
+12
+123
+1234
+Write a function to reverse a number and check if it is palindrome.
+Write a function to find the second largest number in a list using loops and if.
+🔴 Advanced Level (26–30)
+Write a function that simulates a login system:
+Ask username & password
+Allow only 3 attempts
+Use break when login is successful
+Write a function that:
+Takes a list of numbers
+Skips negative numbers (continue)
+Stops processing if number > 100 (break)
+Returns sum of valid numbers
+Write a function to check if a number is an Armstrong number using loops and if.
+Write a program to print all numbers from 1 to 100 where:
+Print "Fizz" if divisible by 3
+Print "Buzz" if divisible by 5
+Print "FizzBuzz" if divisible by both
+Use if-elif-else
+Write a function to analyze a number:
+If even → print sum of digits
+If odd → print product of digits
+Use nested if and loops

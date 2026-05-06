@@ -1,0 +1,26 @@
+https://www.geeksforgeeks.org/python/file-handling-python/
+
+https://www.freecodecamp.org/news/file-handling-in-python/
+
+🔹 EASY LEVEL
+Write a program to create a file and write some text into it.
+Write a program to read and display the content of a file.
+Write a program to read a file line by line and print each line.
+Write a program to append new data to an existing file.
+Write a program to count the number of lines in a file.
+Write a program to count the number of words in a file.
+Write a program to copy content from one file to another file.
+Write a program to display the first 5 lines of a file.
+Write a program to check whether a file exists or not.
+Write a program to read a file and display only uppercase letters.
+🔸 MEDIUM LEVEL
+Write a program to count the number of vowels in a file.
+Write a program to count the frequency of each word in a file.
+Write a program to remove all blank lines from a file.
+Write a program to replace a specific word in a file with another word.
+Write a program to merge two files into a third file.
+Write a program to reverse the content of a file.
+Write a program to display the longest word in a file.
+Write a program to count the number of characters, words, and lines in a file.
+Write a program to sort the lines of a file alphabetically.
+Write a program to store student records (name, marks) in a file and display them.

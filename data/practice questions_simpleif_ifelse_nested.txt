@@ -1,0 +1,56 @@
+🟢 Level 1: Basic (1–10) — Simple if
+Check if a number is positive
+Check if a number is even
+Check if a number is divisible by 5
+Check if a person is eligible to vote (age ≥ 18)
+Check if a number is greater than 100
+Check if a character is a vowel
+Check if a number is negative
+Check if a number is divisible by 3
+Check if marks are greater than 40 (pass condition)
+Check if a number is zero
+🟡 Level 2: Basic if-else (11–20)
+Check if a number is even or odd
+Check if a number is positive or negative
+Check if a person is eligible to vote or not
+Compare two numbers and print the greater one
+Check if a number is divisible by 2 or not
+Check pass or fail (marks ≥ 40 pass, else fail)
+Check if a year is leap year or not
+Check if a character is vowel or consonant
+Check if a number is greater than 50 or not
+Compare two numbers and print smaller one
+🟠 Level 3: if-elif-else (21–35)
+Find largest among three numbers
+Grade system (marks → A, B, C, Fail)
+Check if number is positive, negative, or zero
+Calculator (add, subtract, multiply, divide based on choice)
+Check day number (1–7) and print day name
+Check month number and print month name
+Check if a number is divisible by 2 and 3
+Electricity bill calculation based on units
+Salary bonus calculation based on years of service
+Check character type (uppercase, lowercase, digit, special)
+Traffic light system (red, yellow, green actions)
+Find smallest among three numbers
+Check triangle type (equilateral, isosceles, scalene)
+Check temperature (cold, normal, hot)
+Menu-based food ordering system
+🔵 Level 4: Nested if-else (36–45)
+Check if a number is positive, then check even/odd
+Login system (username + password)
+ATM withdrawal (balance check → amount check)
+Check largest of three numbers using nested if
+Check if a year is leap year using nested logic
+Student result (pass/fail + division)
+Check triangle validity, then type
+Bank loan eligibility (age + salary conditions)
+Check if a number is divisible by 2, then by 3
+Shopping discount (amount + membership)
+🔴 Level 5: Advanced Logic (46–50)
+
+Online exam system (marks + cheating condition)
+Movie ticket pricing (age + time + seat type)
+Cab fare calculation (distance + time + surge pricing)
+E-commerce discount system (price + coupon + membership)
+Multi-user login system (admin/user roles with different access)

@@ -1,0 +1,48 @@
+🟢 LEVEL 1: EASY (1–10)
+🔹 No Argument, No Return Value
+Write a function that prints "Hello World".
+Create a function to print numbers from 1 to 10.
+Write a function to display your name and city.
+Print the table of 5 using a function.
+Print all even numbers from 1 to 20.
+🔹 Function with Argument, No Return Value
+Create a function that takes a number and prints its square.
+Write a function that takes a name and prints "Welcome <name>".
+Print the table of a given number.
+Write a function that accepts age and prints eligible for voting or not.
+Take two numbers and print their sum.
+🟡 LEVEL 2: BASIC LOGIC (11–20)
+🔹 No Argument, Return Value
+Create a function that returns current year.
+Write a function that returns a random number between 1–100.
+Return the sum of numbers from 1 to 50.
+Return the largest number among predefined values.
+Return a list of first 10 natural numbers.
+🔹 Function with Argument & Return Value
+Write a function that takes a number and returns its cube.
+Create a function that takes two numbers and returns the maximum.
+Write a function to return factorial of a number.
+Take a string and return it in uppercase.
+Write a function that returns whether a number is prime or not.
+🟠 LEVEL 3: DEFAULT ARGUMENTS (21–25)
+Create a function with default value "Guest" that prints welcome message.
+Write a function to calculate simple interest with default rate = 5%.
+Create a function that prints student details with default city = "Delhi".
+Write a function that adds 3 numbers where 2nd and 3rd have default values.
+Create a function to calculate bill with default tax = 18%.
+🔴 LEVEL 4: INTERMEDIATE (26–30)
+🔹 Mixed Concepts (Logic + Function Types)
+Write a function that takes a number and returns sum of its digits.
+Create a function:
+Takes list as argument
+Returns largest element
+Write a function:
+No argument
+Returns a list of prime numbers from 1–50
+Create a function:
+Takes string
+Returns count of vowels and consonants
+Design a function:
+Takes marks of 5 subjects
+Returns grade (A/B/C/Fail)
+Use default passing marks = 40

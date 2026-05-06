@@ -1,0 +1,104 @@
+EASY LEVEL (1–10)
+Print numbers from 1 to 20.
+If number is even print "Even", else print "Odd".
+
+Print numbers from 1 to 50.
+If number is divisible by 5, print the number.
+
+Print numbers from 1 to 30.
+If number is divisible by 3 and 5, print "FizzBuzz".
+
+Print numbers from 1 to 20.
+If number is even print "Even", else print "Odd".
+
+Print numbers from 1 to 100.
+If number is divisible by 10, print it.
+
+Print numbers from 1 to 20.
+If number > 10 print "Greater", else print "Smaller or Equal".
+
+Print numbers from 1 to 20.
+If number is divisible by 2 and 3, print the number.
+
+Print numbers from 1 to 20.
+If even print square, else print cube.
+
+Print numbers from 1 to 15.
+If divisible by 3 print "Yes", else print "No".
+
+Print numbers from 1 to 10.
+If number equals 5, print "Found 5".
+
+MEDIUM LEVEL (11–20)
+Print numbers from 1 to 50.
+If divisible by 2 print "Even", elif divisible by 3 print "Divisible by 3", else print "Other".
+
+Print numbers from 1 to 100.
+If divisible by 2 and 5 print "Special".
+
+Print numbers from 1 to 50.
+If number is even:
+If divisible by 4 print "Divisible by 4", else print "Only Even".
+
+Print numbers from 1 to 30.
+If divisible by 3:
+If also divisible by 2 print "Divisible by 6".
+
+Print numbers from 1 to 100.
+If divisible by 2 print "Even", elif divisible by 5 print "Five", else print number.
+
+Print numbers from 1 to 50.
+If number > 25:
+If even print "Big Even", else print "Big Odd".
+
+Print numbers from 1 to 50.
+If number < 10 print "Small", elif number < 30 print "Medium", else print "Large".
+
+Print numbers from 1 to 50.
+If divisible by 3 print "Three", elif divisible by 5 print "Five", elif divisible by both print "Both".
+
+Print numbers from 1 to 20.
+If even:
+If divisible by 4 print "Divisible by 4", else print "Even but not 4".
+
+Print numbers from 1 to 100.
+If divisible by 7 print "Lucky", else print number.
+
+ADVANCED LEVEL (21–30)
+Print numbers from 1 to 100.
+If divisible by 2, 3, and 5 print "Super".
+
+Print numbers from 1 to 50.
+If divisible by 2:
+If divisible by 3:
+If divisible by 5 print the number.
+
+Print numbers from 1 to 100.
+If divisible by 2 print "Even", elif divisible by 3 print "Three", elif divisible by 5 print "Five", else print "None".
+
+Print numbers from 1 to 50.
+If even:
+If divisible by 10 print "Multiple of 10", else print "Even".
+
+Print numbers from 1 to 100.
+If number > 50:
+If divisible by 2 print "Big Even", elif divisible by 3 print "Big Three".
+
+Print numbers from 1 to 100.
+If number < 20 print "Low", elif number between 20 and 50 print "Mid", else print "High".
+
+Print numbers from 1 to 50.
+If divisible by 2 and 3 print "Six", elif divisible by 2 print "Two", elif divisible by 3 print "Three".
+
+Print numbers from 1 to 50.
+If divisible by 4:
+If divisible by 6 print "Both 4 and 6", else print "Only 4".
+
+Print numbers from 1 to 100.
+If divisible by 9 print "Nine", elif divisible by 3 print "Three", else print number.
+
+Print numbers from 1 to 100.
+If divisible by 2:
+If divisible by 3 print "Fizz", else print "Even".
+Else:
+If divisible by 5 print "Buzz", else print "Odd".
