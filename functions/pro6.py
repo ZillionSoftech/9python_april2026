@@ -1,16 +1,9 @@
-# Returns a list of prime numbers from 1–50
+numbers = [10,20,40,30,80,50,80]
 
-def prime_numbers(end):
-    for num in range(1, end):    
-        status = True
+new_list = []
 
-        for i in range(2, num):
-            if num%i==0:
-                status = False
-                break
+for i in numbers:
+    new_num = lambda x:x*x
+    new_list.append(new_num(i))
 
-        if status:
-            print(num,end="\t")
-
-prime_numbers(50)
-    
+print(new_list)

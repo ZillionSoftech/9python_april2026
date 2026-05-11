@@ -1,15 +1,6 @@
-# Returns a list of prime numbers from 1–50
-def prime_numbers(end):
-    for num in range(1, end):    
-        status = True
+numbers = [10,20,40,30,80,50,80]
 
-        for i in range(2, num):
-            if num%i==0:
-                status = False
-                break
+# list comprihanson
 
-        if status:
-            print(num,end="\t")
-
-prime_numbers(50)
-    
+new_list=[item+10 for item in numbers]
+print(new_list)

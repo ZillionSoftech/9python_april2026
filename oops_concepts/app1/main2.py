@@ -16,7 +16,8 @@ class Account:
 
     # ---------------- SECURITY ----------------
     def verify_pin(self, pin):
-        return self.__pin == pin
+        status = self.__pin == pin
+        return status
 
     def change_pin(self, old_pin, new_pin):
         if self.verify_pin(old_pin):
