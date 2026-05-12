@@ -1,0 +1,20 @@
+
+create database hospital;
+use hospital;
+create table doctors(
+	doc_id int primary key,
+    name varchar(30),
+    qualifications varchar(30),
+    salary decimal(12,2)
+);
+
+desc doctors;
+
+insert into doctors values
+(101,"Dr.Sharma","MBBS",2000000);
+
+select * from doctors;
+insert into doctors values
+(102,"Dr.Gupta","MBBS",2000000);
+
+select * from doctors;
