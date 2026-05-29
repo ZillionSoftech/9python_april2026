@@ -1,0 +1,528 @@
+# Python Keywords Understanding – 40 Practice Programs
+
+This guide contains small Python programs designed to help you understand important Python keywords and concepts step by step.
+
+---
+
+# 1. if Keyword
+
+```python
+age = 20
+
+if age >= 18:
+    print("Eligible to vote")
+```
+
+---
+
+# 2. else Keyword
+
+```python
+num = 5
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+```
+
+---
+
+# 3. elif Keyword
+
+```python
+marks = 75
+
+if marks >= 90:
+    print("Grade A")
+elif marks >= 60:
+    print("Grade B")
+else:
+    print("Grade C")
+```
+
+---
+
+# 4. for Keyword
+
+```python
+for i in range(1, 6):
+    print(i)
+```
+
+---
+
+# 5. while Keyword
+
+```python
+count = 1
+
+while count <= 5:
+    print(count)
+    count += 1
+```
+
+---
+
+# 6. break Keyword
+
+```python
+for i in range(1, 10):
+    if i == 5:
+        break
+    print(i)
+```
+
+---
+
+# 7. continue Keyword
+
+```python
+for i in range(1, 6):
+    if i == 3:
+        continue
+    print(i)
+```
+
+---
+
+# 8. pass Keyword
+
+```python
+for i in range(5):
+    pass
+
+print("Loop completed")
+```
+
+---
+
+# 9. def Keyword
+
+```python
+def greet():
+    print("Welcome")
+
+
+greet()
+```
+
+---
+
+# 10. return Keyword
+
+```python
+def add(a, b):
+    return a + b
+
+
+result = add(10, 20)
+print(result)
+```
+
+---
+
+# 11. lambda Keyword
+
+```python
+square = lambda x: x * x
+
+print(square(5))
+```
+
+---
+
+# 12. global Keyword
+
+```python
+x = 100
+
+
+def show():
+    global x
+    x = 200
+
+
+show()
+print(x)
+```
+
+---
+
+# 13. nonlocal Keyword
+
+```python
+def outer():
+    x = 10
+
+    def inner():
+        nonlocal x
+        x = 20
+
+    inner()
+    print(x)
+
+
+outer()
+```
+
+---
+
+# 14. import Keyword
+
+```python
+import math
+
+print(math.sqrt(25))
+```
+
+---
+
+# 15. from Keyword
+
+```python
+from math import pi
+
+print(pi)
+```
+
+---
+
+# 16. as Keyword
+
+```python
+import math as m
+
+print(m.factorial(5))
+```
+
+---
+
+# 17. class Keyword
+
+```python
+class Student:
+    name = "Kamal"
+
+
+obj = Student()
+print(obj.name)
+```
+
+---
+
+# 18. object creation
+
+```python
+class Car:
+    def show(self):
+        print("Car Started")
+
+
+c = Car()
+c.show()
+```
+
+---
+
+# 19. **init** Method
+
+```python
+class Employee:
+    def __init__(self, name):
+        self.name = name
+
+
+emp = Employee("Rahul")
+print(emp.name)
+```
+
+---
+
+# 20. inheritance
+
+```python
+class Father:
+    def bike(self):
+        print("Father has bike")
+
+
+class Son(Father):
+    pass
+
+
+s = Son()
+s.bike()
+```
+
+---
+
+# 21. try Keyword
+
+```python
+try:
+    num = 10 / 0
+except:
+    print("Error occurred")
+```
+
+---
+
+# 22. except Keyword
+
+```python
+try:
+    print(x)
+except NameError:
+    print("Variable not defined")
+```
+
+---
+
+# 23. finally Keyword
+
+```python
+try:
+    print(10 / 2)
+finally:
+    print("Program ended")
+```
+
+---
+
+# 24. raise Keyword
+
+```python
+age = -1
+
+if age < 0:
+    raise ValueError("Age cannot be negative")
+```
+
+---
+
+# 25. assert Keyword
+
+```python
+x = 10
+
+assert x > 0
+print("Valid")
+```
+
+---
+
+# 26. with Keyword
+
+```python
+with open("demo.txt", "w") as file:
+    file.write("Hello")
+```
+
+---
+
+# 27. del Keyword
+
+```python
+numbers = [10, 20, 30]
+
+del numbers[1]
+print(numbers)
+```
+
+---
+
+# 28. is Keyword
+
+```python
+x = [1, 2]
+y = x
+
+print(x is y)
+```
+
+---
+
+# 29. in Keyword
+
+```python
+name = "python"
+
+print("p" in name)
+```
+
+---
+
+# 30. not Keyword
+
+```python
+x = False
+
+print(not x)
+```
+
+---
+
+# 31. and Keyword
+
+```python
+age = 25
+salary = 50000
+
+if age > 18 and salary > 30000:
+    print("Eligible")
+```
+
+---
+
+# 32. or Keyword
+
+```python
+username = "admin"
+password = "1234"
+
+if username == "admin" or password == "admin":
+    print("Access Granted")
+```
+
+---
+
+# 33. True and False Keywords
+
+```python
+is_logged_in = True
+
+if is_logged_in:
+    print("Welcome User")
+```
+
+---
+
+# 34. None Keyword
+
+```python
+data = None
+
+print(data)
+```
+
+---
+
+# 35. list Program
+
+```python
+numbers = [10, 20, 30]
+
+for num in numbers:
+    print(num)
+```
+
+---
+
+# 36. tuple Program
+
+```python
+data = (1, 2, 3)
+
+print(data[0])
+```
+
+---
+
+# 37. set Program
+
+```python
+items = {1, 2, 3, 3}
+
+print(items)
+```
+
+---
+
+# 38. dictionary Program
+
+```python
+student = {
+    "name": "Aman",
+    "age": 22
+}
+
+print(student["name"])
+```
+
+---
+
+# 39. File Reading Program
+
+```python
+with open("demo.txt", "r") as file:
+    data = file.read()
+    print(data)
+```
+
+---
+
+# 40. Multithreading Program
+
+```python
+import threading
+
+
+def display():
+    for i in range(5):
+        print("Thread Running")
+
+
+thread1 = threading.Thread(target=display)
+thread1.start()
+thread1.join()
+```
+
+---
+
+# Practice Suggestions
+
+1. Run each program individually.
+2. Change values and observe output.
+3. Predict output before execution.
+4. Combine multiple keywords into one program.
+5. Create your own examples after understanding each concept.
+
+---
+
+# Important Python Keywords Covered
+
+* if
+* else
+* elif
+* for
+* while
+* break
+* continue
+* pass
+* def
+* return
+* lambda
+* global
+* nonlocal
+* import
+* from
+* as
+* class
+* try
+* except
+* finally
+* raise
+* assert
+* with
+* del
+* is
+* in
+* not
+* and
+* or
+* True
+* False
+* None
+
+These programs are beginner-friendly and useful for interviews, exams, and programming practice.
